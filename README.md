@@ -1,2 +1,2 @@
 # authentication
-The form here helps to authenticate users
+The forms here helps to authenticate users
