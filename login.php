@@ -64,8 +64,8 @@ session_start();
 	elseif(isset($_POST['logout']))
 	{
 		unset($_SESSION['username']);
-	unset($_SESSION['password']);
-	header('location:login.php');
+		unset($_SESSION['password']);
+		header('location:login.php');
 	}
 	
 
